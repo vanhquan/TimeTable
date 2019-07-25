@@ -1,0 +1,9 @@
+FlightNo	String	10	
+AcRegNo	String	10	
+Route	String	11	
+ETA	String	5	
+STD	String	5	
+ETD	String	5	
+ParkingBay	String	10	
+Gate	String	5	
+SSR	String	100	
