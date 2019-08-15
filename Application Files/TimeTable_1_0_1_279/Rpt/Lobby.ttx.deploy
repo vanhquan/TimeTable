@@ -1,0 +1,7 @@
+FlightNo	String	10	
+Route	String	10	
+STD	String	5	
+Loc	DateTime	
+Ket	DateTime	
+Gate	String	5	
+ETD	String	5	
