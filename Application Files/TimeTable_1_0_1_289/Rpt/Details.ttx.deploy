@@ -1,0 +1,7 @@
+FlightNo	String	20	
+Route	String	20	
+From	DateTime		
+To	DateTime		
+ArrKgs	Number		
+DepKgs	Number		
+TotalKgs	Number		
