@@ -1,0 +1,10 @@
+FlightNo	String	10	
+Route	String	50	
+ScheduledTime	String	10	
+EstimatedTime	String	10	
+Gate	String	10	
+Block	String	20
+Loc	DateTime
+Ket	DateTime
+Booking	String	20
+ACType	String	10
