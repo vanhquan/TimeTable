@@ -1,0 +1,11 @@
+DateShiftName	String	10	
+From	DateTime		
+To	DateTime	
+FullName	String	100	
+LevelName	String	50	
+Counter	String	10	
+Gate	String	10	
+ChangeHour	DateTime		
+Block	String	20
+Location	String	50
+UserName	String	10
