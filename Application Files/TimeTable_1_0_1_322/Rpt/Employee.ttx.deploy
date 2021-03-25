@@ -1,0 +1,7 @@
+UserId	Number		
+UserName	String	20	
+FullName	String	100	
+NB2	Number		
+F	Number		
+KO	Number		
+O	Number		
